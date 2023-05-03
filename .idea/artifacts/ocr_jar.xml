@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ocr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ocr_jar</output-path>
+    <root id="archive" name="ocr.jar">
+      <element id="module-output" name="ocr" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/net/sourceforge/tess4j/tess4j/5.5.0/tess4j-5.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/org/apache/pdfbox/fontbox/2.0.27/fontbox-2.0.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/org/apache/pdfbox/pdfbox-tools/2.0.27/pdfbox-tools-2.0.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/com/github/jai-imageio/jai-imageio-core/1.4.0/jai-imageio-core-1.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/net/sourceforge/lept4j/lept4j/1.17.0/lept4j-1.17.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/org/jboss/jboss-vfs/3.2.17.Final/jboss-vfs-3.2.17.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/org/jboss/logging/jboss-logging/3.1.4.GA/jboss-logging-3.1.4.GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/org/apache/pdfbox/pdfbox/2.0.27/pdfbox-2.0.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/org/apache/pdfbox/pdfbox-debugger/2.0.27/pdfbox-debugger-2.0.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.6.3/maven_repository/org/apache/pdfbox/jbig2-imageio/3.0.4/jbig2-imageio-3.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
